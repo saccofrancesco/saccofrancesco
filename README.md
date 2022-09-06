@@ -3,9 +3,10 @@
 ## I'm a Student and a Developer!
 - 🔭 I'm currently working on learning New Technologies!
 - 🌱 I'm currently learning Everything 🤣
-- 👨🏻‍🤝‍👨🏽 I'm looking to collaborate with other Developers
+- 👨🏻‍🤝‍👨🏽 I'm looking to collaborate with other Developers (But i'm not gay, or anyway I'belive)
 - 🥅 2022 Goals: learn more About CS
 - ⚡ Fun Fact: I love to draw and play guitar
+- 🧑‍🎓 I'm fedep4lpi follower, my only God!
 
 ### Stats:
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=Tonicstark&count_private=true&show_icons=true&hide=contribs&theme=onedark)
