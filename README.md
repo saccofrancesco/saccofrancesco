@@ -12,5 +12,8 @@
 
 ### My Skills
 [![My Skills](https://skillicons.dev/icons?i=py,vscode,git,github,sqlite)](https://skillicons.dev)
+<<<<<<< HEAD
 
 test
+=======
+>>>>>>> e66439611a8e684b6ed43f5fd8d697d4d5850029
