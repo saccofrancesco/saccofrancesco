@@ -7,8 +7,6 @@
 - 🥅 2023 Goals: learn Web technologies
 - ⚡ Fun Fact: I love to draw and play guitar
 
-- fedep4lpi TEACH ME!
-
 ### My Stats
 ![Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonicstark&show_icons=true&theme=tokyonight)
 
