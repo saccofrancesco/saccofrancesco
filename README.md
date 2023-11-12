@@ -11,4 +11,4 @@
 ![Francesco's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tonicstark&show_icons=true&theme=tokyonight)
 
 ### My Skills
-[![My Skills](https://skillicons.dev/icons?i=py,vscode,git,github,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,vscode,git,github,md,selenium,bots,sqlite,latex,firebase,replit,stackoverflow,bootstrap)](https://skillicons.dev)
