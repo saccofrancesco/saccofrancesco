@@ -8,7 +8,7 @@
 - ⚡ Fun Fact: I love to draw and play guitar
 
 ### My Stats
-![Francesco's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tonicstark&show_icons=true&theme=tokyonight)
+![Francesco's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tonicstark&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
 ### My Skills
 [![My Skills](https://skillicons.dev/icons?i=py,c,vscode,git,github,md,selenium,bots,sqlite,latex,firebase,replit,stackoverflow,bootstrap)](https://skillicons.dev)
