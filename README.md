@@ -1,4 +1,4 @@
-### Hi there, I'm Francesco - aka TonicStark 👋
+### Hi there, I'm Francesco 👋
 
 ## I'm a Student and a Developer!
 - 🔭 I'm currently working on learning New Things!
