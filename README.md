@@ -4,7 +4,7 @@
     <li>🔭 I'm currently working on Personal Projects!</li>
     <li>🌱 I'm currently learning UI framework in general ✨</li>
     <li>🤝 I'm looking to collaborate with other Developers</li>
-    <li>🥅 2024 Goals: learn Web technologies</li>
+    <li>🥅 2025 Goals: learn Web technologies</li>
     <li>⚡ Fun Fact: I love to draw and play guitar</li>
     <h3>My Stats</h3>
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saccofrancesco&show_icons=true&theme=onedark&hide_border=true">
