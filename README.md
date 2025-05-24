@@ -6,13 +6,6 @@
 <p>🥅 2025 Goals: learn Web technologies</p>
 <p>⚡ Fun Fact: I love to draw and play guitar</p>
 
-<!-- Buy Me a Coffee Button -->
-<p>
-  <a href="https://www.buymeacoffee.com/saccofrancesco">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=saccofrancesco&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
-  </a>
-</p>
-
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saccofrancesco&show_icons=true&theme=onedark&hide_border=true">
 
 <h3>🧠 Programming Languages & Frameworks</h3>
