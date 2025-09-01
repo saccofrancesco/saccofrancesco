@@ -15,10 +15,10 @@
 <img src="https://skillicons.dev/icons?i=opencv,sklearn,selenium,bots,firebase,sqlite,pkl,bootstrap,tailwind,qt,figma,gcp&theme=light">
 
 <h3>💻 IDEs & Editors</h3>
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,atom,sublime,replit&theme=light">
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,atom,sublime,replit&theme=light">
 
 <h3>🌐 Platforms & Dev Communities</h3>
-<img src="https://skillicons.dev/icons?i=github,git,codepen,stackoverflow,devto,discord&theme=light">
+<img src="https://skillicons.dev/icons?i=github,git,codepen,stackoverflow,devto,linkedin,discord&theme=light">
 
 <h3>📦 Environments & OS</h3>
 <img src="https://skillicons.dev/icons?i=apple,anaconda,windows&theme=light">
