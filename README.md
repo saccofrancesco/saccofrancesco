@@ -1,7 +1,7 @@
 <h2>Hi there, I'm Francesco 👋</h2>
 <h3>I'm a Student and a Developer!</h3>
-<p>🔭 I'm currently working on Personal Projects!</p>
-<p>🌱 I'm currently learning UI framework in general ✨</p>
+<p>🔭 I'm currently working on <a href="https://github.com/saccofrancesco/deepshot">Deepshot</a></p>
+<p>🌱 I'm currently learning UI frameworks in general ✨</p>
 <p>🤝 I'm looking to collaborate with other Developers</p>
 <p>🥅 2025 Goals: learn Web technologies</p>
 <p>⚡ Fun Fact: I love to draw and play guitar</p>
@@ -25,3 +25,4 @@
 
 <h3>📓 Note-taking & Docs</h3>
 <img src="https://skillicons.dev/icons?i=md,notion,obsidian&theme=light">
+
