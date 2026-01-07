@@ -3,8 +3,8 @@
 <p>🔭 I'm currently working on <a href="https://github.com/saccofrancesco/deepshot">Deepshot</a></p>
 <p>🌱 I'm currently learning UI frameworks in general ✨</p>
 <p>🤝 I'm looking to collaborate with other Developers</p>
-<p>🥅 2025 Goals: learn Web technologies</p>
-<p>⚡ Fun Fact: I love to draw and play guitar</p>
+<p>🥅 2026 Goals: learn Web technologies</p>
+<p>⚡ Fun Fact: I love traveling and photography</p>
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saccofrancesco&show_icons=true&theme=onedark&hide_border=true">
 
@@ -25,4 +25,3 @@
 
 <h3>📓 Note-taking & Docs</h3>
 <img src="https://skillicons.dev/icons?i=md,notion,obsidian&theme=light">
-
