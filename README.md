@@ -9,10 +9,10 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saccofrancesco&show_icons=true&theme=onedark&hide_border=true">
 
 <h3>🧠 Programming Languages & Frameworks</h3>
-<img src="https://skillicons.dev/icons?i=c,cpp,py,latex,html,css,bash,arduino&theme=light">
+<img src="https://skillicons.dev/icons?i=c,cpp,py,java,latex,html,css,bash,arduino&theme=light">
 
 <h3>🧰 Libraries & Tools</h3>
-<img src="https://skillicons.dev/icons?i=opencv,sklearn,selenium,bots,firebase,sqlite,pkl,bootstrap,tailwind,qt,figma,gcp&theme=light">
+<img src="https://skillicons.dev/icons?i=opencv,sklearn,selenium,bots,firebase,mysql,sqlite,pkl,bootstrap,tailwind,qt,figma,gcp&theme=light">
 
 <h3>💻 IDEs & Editors</h3>
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,idea,atom,sublime,replit&theme=light">
