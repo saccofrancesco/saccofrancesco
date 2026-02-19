@@ -1,6 +1,6 @@
 <h2>Hi there, I'm Francesco 👋</h2>
 <h3>I'm a Student and a Developer!</h3>
-<p>🔭 I'm currently working on <a href="https://github.com/saccofrancesco/deepshot">Deepshot</a></p>
+<p>🔭 I'm currently working on <a href="https://github.com/saccofrancesco/lexcut">Lexcut</a></p>
 <p>🌱 I'm currently learning UI frameworks in general ✨</p>
 <p>🤝 I'm looking to collaborate with other Developers</p>
 <p>🥅 2026 Goals: learn Web technologies</p>
