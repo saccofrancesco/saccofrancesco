@@ -4,8 +4,6 @@
 
 I'm passionate about building things — from CLI tools to full-stack web apps. Currently focused on learning modern web technologies and always looking to collaborate with fellow developers.
 
----
-
 ## 🚀 What I'm up to
 
 - 🔭 **Building** → [`workshift`](https://github.com/saccofrancesco/workshift)
@@ -13,13 +11,9 @@ I'm passionate about building things — from CLI tools to full-stack web apps. 
 - 🥅 **2026 Goal** → Go deep on web dev
 - 🤝 **Open to** → Collaboration with other developers
 
----
-
 ## 📊 Stats
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saccofrancesco&show_icons=true&theme=onedark&hide_border=true">
-
----
 
 ## 🛠 Tech Stack
 
