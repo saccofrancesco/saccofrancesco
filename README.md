@@ -2,14 +2,14 @@
 
 > Student · Developer · Travel & Photography enthusiast
 
-I'm passionate about building things — from CLI tools to full-stack web apps. Currently focused on learning modern web technologies and always looking to collaborate with fellow developers.
+I'm passionate about building things — from CLI tools to full-stack web apps. Currently focused on learning modern web technologies, improving my development workflow, and collaborating with other developers.
 
 ## 🚀 What I'm up to
 
-- 🔭 **Building** → [`workshift`](https://github.com/saccofrancesco/workshift)
-- 🌱 **Learning** → UI frameworks and modern web technologies
-- 🥅 **2026 Goal** → Go deep on web dev
-- 🤝 **Open to** → Collaboration with other developers
+* 🔭 **Building** → [`workshift`](https://github.com/saccofrancesco/workshift)
+* 🌱 **Learning** → UI frameworks, backend APIs, and modern web technologies
+* 🥅 **2026 Goal** → Go deep on web development
+* 🤝 **Open to** → Collaboration with other developers
 
 ## 📊 Stats
 
@@ -17,18 +17,34 @@ I'm passionate about building things — from CLI tools to full-stack web apps. 
 
 ## 🛠 Tech Stack
 
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=py,java,c,cpp,go,latex,html,css,js,bash,arduino&theme=light">
+### Languages & Markup
 
-**Libraries & Frameworks**
-<br>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,qt,opencv,sklearn,selenium,firebase,mysql,sqlite&theme=light">
+<img src="https://skillicons.dev/icons?i=py,js,ts,c,cpp,java,kotlin,rust,html,css,md,latex,bash,regex,pkl,svg&theme=light&perline=8">
 
-**Tools & Platforms**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,figma,gcp,codepen,stackoverflow,discord&theme=light">
+### Frontend
 
-**Dev Environment**
-<br>
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,apple,anaconda,windows,notion,obsidian&theme=light">
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,materialui&theme=light&perline=8">
+
+### Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=light&perline=8">
+
+### Databases, Cloud & Hosting
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,gcp,vercel&theme=light&perline=8">
+
+### Libraries, Frameworks & Automation
+
+<img src="https://skillicons.dev/icons?i=qt,opencv,sklearn,selenium,tauri,arduino,bots&theme=light&perline=8">
+
+### Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,npm,postman,figma,replit&theme=light&perline=8">
+
+### Dev Environment
+
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,idea,eclipse,sublime,vim,apple,windows,notion,obsidian&theme=light&perline=8">
+
+### Platforms & Communities
+
+<img src="https://skillicons.dev/icons?i=devto,stackoverflow,gmail,linkedin,instagram,twitter&theme=light&perline=8">
