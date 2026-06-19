@@ -19,19 +19,19 @@ I'm passionate about building things — from CLI tools to full-stack web apps. 
 
 ### Languages & Markup
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,c,cpp,java,kotlin,rust,html,css,md,latex,bash,regex,pkl&theme=light">
+<img src="https://skillicons.dev/icons?i=py,js,ts,cs,c,cpp,java,kotlin,rust,html,css,md,latex,bash,regex,pkl&theme=light">
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,materialui&theme=light">
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,webpack,tailwind,bootstrap,materialui,vuetify&theme=light">
 
 ### Backend & APIs
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=light">
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,fastapi,flask&theme=light">
 
 ### Databases, Cloud & Hosting
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,gcp,vercel&theme=light">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,gcp,azure,vercel&theme=light">
 
 ### Libraries, Frameworks & Automation
 
@@ -43,7 +43,7 @@ I'm passionate about building things — from CLI tools to full-stack web apps. 
 
 ### Dev Environment
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,idea,eclipse,sublime,vim,apple,windows,notion,obsidian&theme=light">
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,pycharm,idea,eclipse,sublime,vim,apple,windows,notion,obsidian&theme=light">
 
 ### Platforms & Communities
 
