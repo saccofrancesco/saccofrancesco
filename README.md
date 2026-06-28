@@ -1,50 +1,83 @@
-# Hi, I'm Francesco 👋
+# Hi, I'm Francesco Sacco
 
-> Student · Developer · Travel & Photography enthusiast
+> Software Engineering student · Developer · Builder of practical tools
 
-I'm passionate about building things — from CLI tools to full-stack web apps. Currently focused on learning modern web technologies, improving my development workflow, and collaborating with other developers.
+I like building useful software: CLI tools, desktop apps, automation scripts, and full-stack web projects.
+Right now I’m focused on modern web development, better developer workflows, and projects that solve real problems.
 
-## 🚀 What I'm up to
+---
 
-* 🔭 **Building** → [`workshift`](https://github.com/saccofrancesco/workshift)
-* 🌱 **Learning** → UI frameworks, backend APIs, and modern web technologies
-* 🥅 **2026 Goal** → Go deep on web development
-* 🤝 **Open to** → Collaboration with other developers
+## What I’m working on
 
-## 📊 Stats
+* Building [`workshift`](https://github.com/saccofrancesco/workshift) — a desktop app for shift planning, hour tracking, and Excel export.
+* Learning deeper frontend and backend development with TypeScript, React, Next.js, APIs, and local-first desktop apps.
+* Improving my development workflow with better tooling, automation, and cleaner project structure.
+* Open to collaborating with other developers on practical open-source projects.
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saccofrancesco&show_icons=true&theme=onedark&hide_border=true">
+---
 
-## 🛠 Tech Stack
+## Featured projects
 
-### Languages & Markup
+| Project                                                    | Description                                                                       | Tech                                  |
+| ---------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------- |
+| [`workshift`](https://github.com/saccofrancesco/workshift) | Desktop shift planner with real-time hour tracking and XLSX export.               | Tauri, Next.js, TypeScript, shadcn/ui |
+| [`deepshot`](https://github.com/saccofrancesco/deepshot)   | NBA game outcome predictor using team stats and trend-based features.             | Python, Jupyter, ML                   |
+| [`gitsloth`](https://github.com/saccofrancesco/gitsloth)   | Rust CLI for generating clean Conventional Commit messages from staged Git diffs. | Rust, CLI, OpenAI                     |
+| [`lock`](https://github.com/saccofrancesco/lock)           | Local-first password manager with encryption and a desktop UI.                    | Python, CustomTkinter                 |
+| [`shelfy`](https://github.com/saccofrancesco/shelfy)       | Full-stack app for cataloging a personal library with search and admin CRUD.      | JavaScript, JWT, Web APIs             |
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,cs,c,cpp,java,kotlin,rust,html,css,md,latex,bash,regex,pkl&theme=light">
+---
 
-### Frontend
+## Tech stack
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,webpack,tailwind,bootstrap,materialui,vuetify&theme=light">
+### Main tools I use or am actively improving
 
-### Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,rust,react,nextjs,nodejs,express,tailwind,tauri,git,github,vscode&theme=light" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,fastapi,flask&theme=light">
+### Also worked with
 
-### Databases, Cloud & Hosting
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,c,cpp,java,kotlin,html,css,md,latex,bash,fastapi,flask,dotnet,mongodb,mysql,sqlite,firebase,gcp,azure,vercel,qt,opencv,sklearn,selenium,arduino,postman,figma,visualstudio,androidstudio,pycharm,idea,eclipse,vim,notion,obsidian&theme=light" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,gcp,azure,vercel&theme=light">
+---
 
-### Libraries, Frameworks & Automation
+## Current learning focus
 
-<img src="https://skillicons.dev/icons?i=qt,opencv,sklearn,selenium,tauri,arduino,bots&theme=light">
+```txt
+Frontend       React · Next.js · UI architecture · component systems
+Backend        APIs · authentication · databases · application structure
+Desktop apps   Tauri · local-first tools · cross-platform packaging
+Workflow       Git · GitHub Actions · automation · better documentation
+```
 
-### Tools & Workflow
+---
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,npm,postman,figma,replit&theme=light">
+## GitHub stats
 
-### Dev Environment
+<p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saccofrancesco&show_icons=true&theme=onedark&hide_border=true" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,pycharm,idea,eclipse,sublime,vim,apple,windows,notion,obsidian&theme=light">
+<p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saccofrancesco&layout=compact&theme=onedark&hide_border=true" />
+</p>
 
-### Platforms & Communities
+---
 
-<img src="https://skillicons.dev/icons?i=devto,stackoverflow,gmail,linkedin,instagram,twitter&theme=light">
+## Outside code
+
+I’m also interested in travel, photography, and learning by building projects from scratch.
+
+---
+
+## Connect
+
+* GitHub: [@saccofrancesco](https://github.com/saccofrancesco)
+* LinkedIn: [Francesco Sacco](https://www.linkedin.com/in/francesco-sacco-566483332)
+
+---
+
+> 2026 goal: go deep on web development and ship better, more complete projects.
